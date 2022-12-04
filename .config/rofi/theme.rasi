@@ -1,0 +1,16 @@
+* {
+  bg: #141C21;
+  bg-alt: #141C21;
+
+  fg: #FFFFFF;
+  fg-alt: #F48FB1;
+
+  borders: #D81B60;
+  borders-alt: #C2185B;
+  background-color: @bg;
+
+  border: 0;
+  margin: 0;
+  padding: 0;
+  spacing: 15;
+}
